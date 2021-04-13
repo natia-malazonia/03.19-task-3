@@ -1,0 +1,29 @@
+body {
+    margin: 2% 20%;
+    border: 10px solid rgb(197, 195, 195);
+    padding: 2%;
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(131, 215, 248);
+    font-size: 20px;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+    margin: 0;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.border-left {
+    border-left: 7px solid rgb(197, 195, 195);
+    padding-left: 2%;
+
+}
